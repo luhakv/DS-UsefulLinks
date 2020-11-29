@@ -1,6 +1,6 @@
 # Data Science Useful Links
 
-Welcome to the Data Science Resources repo. 
+Welcome to the Data Science Useful Links repo. 
 
 The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still relatively fresh and many business are learning how to properly integrate and structure those teams and also proper understanding the value proposition that data science can provide.
 
