@@ -1,4 +1,4 @@
-# Data Science Resources
+# Data Science Useful Links
 
 Welcome to the Data Science Resources repo. 
 
