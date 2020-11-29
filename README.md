@@ -1,4 +1,4 @@
-## Data Science Resources
+# Data Science Resources
 
 Hello and welcome to the Data Science Resources repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be also be interested in this content - so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
 
@@ -12,7 +12,7 @@ If you find this resource helpful - please send it around to other people or you
 
 Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
 
-# Table Of Contents
+## Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)
   * [Start](#start)
   * [Data Science Courses](#data-science-courses)
