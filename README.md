@@ -422,7 +422,7 @@ There are some really great resources linked within this section covering all of
 
 ## ABOUT ME
 
-I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](https://twitter.com/luhakv), [LinkedIn](https://www.linkedin.com/in/luhakv).  
+I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@luhakv](https://twitter.com/luhakv), [LinkedIn](https://www.linkedin.com/in/luhakv).  
 
 
 
