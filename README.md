@@ -76,7 +76,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 
 ## Data Pipeline & Tools
 
-###Python
+### Python
 Python is my workhorse language specifically as it has many data science and statistic library, the ability to work in production environments, and work on other problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
 * [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..
@@ -87,7 +87,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Git Tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - 19 git tips for everyday use.
 * [Anyone Can Code](http://dhruvbird.com/61.html) - Languages, tutorials, cheat sheets, algorithms and data structures
 
-#### Data Structures & CS Topics
+### Data Structures & CS Topics
 * [Algorithms & Data Structures](http://www.bogotobogo.com/Algorithms/algorithms.php) - Binary trees, hash tables, linked lists, big(O) notation and more.
 * [Algorithm & Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html) - Well organized detailed and digestible site full of content covering data structures, algorithms, recursion and assignments!
 * [Big O Notation](http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/BigONotation.html) - Great details and visual of big-O notation.
@@ -96,7 +96,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Data Structures CheatSheet -smaller more readable](https://www.clear.rice.edu/comp160/data_cheat.html)
 * [Coursera: Stanford Algorithms Design & Analysis ](https://class.coursera.org/algo-006) - Course on algorithm design & analysis
 
-####Statistics
+### Statistics
 Some primers on understanding statistics and other resources to get a deeper understanding.
 * [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o) - John Rauser's really great video on statistics - funny and engaging with a good message.
 * [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.
@@ -106,7 +106,7 @@ Some primers on understanding statistics and other resources to get a deeper und
 * [Khan Academy: Statistics](https://www.khanacademy.org/#statistics) - Tons of videos to help learn statistics concepts.
 * [Statistical Distributions in iPython Notebook](http://nbviewer.ipython.org/urls/gist.github.com/mattions/6113437/raw/c5468ea930d6960225d83e112d7f3d00d9c13398/Exploring+different+distribution.ipynb) - Discrete, Bernoulli, Poisson, Binomial, Alpha, Beta etc.  The descriptions are mathematical - will find another resource to explain.
 
-####Stats/Engineering Libraries
+### Stats/Engineering Libraries
 A collection of workhorse libraries that are elemental for any python data scientist.
 * [Pandas](http://pandas.pydata.org/) Wes McKinney's pandas library for EDA on small to medium sized data sets when you don't want to put the infrastructure for SQL or when it isn't necessary.  It has many other great applications other than just better than SQL on small to medium data sets.
   * [Numpy/Pandas/Scipy Cheatsheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) - self explanatory
@@ -116,20 +116,20 @@ A collection of workhorse libraries that are elemental for any python data scien
 * [PyMC](https://pypi.python.org/pypi/pymc) - Bayesian estimation useful for Markov chain Monte Carlo analysis (among other things).
 
 
-####Data Acquisition
+### Data Acquisition
 Libraries that are very helpful for abstracting away some of the complications of scraping or working with HTTP.
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A python library to make web-scraping HTML easier.
   * [Beautiful Soup Cheat Sheet](http://youkilljohnny.blogspot.com/2014/03/beautifulsoup-cheat-sheet-parse-html-by.html)
 * [Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans - python library that makes working with http and api's more effortless
 
-####Processing & Exploratory Data Analysis
+### Processing & Exploratory Data Analysis
 A collection of documents explaining some of the ways to do processing & EDA.
 * [Unix for Processing](http://www.theunixschool.com/p/awk-sed.html) - sed & awk for data processing.
 * [Pandas](http://pandas.pydata.org/) - Already mentioned is great for data processing - cleaning, filtering and getting rid of nan's, normalizing, scaling, replacing values, etc.
 * [SciKit Learn for Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing) - Doc on sklearn's preprocessing methods.
 * [Regular Expressions](http://www.zytrax.com/tech/web/regex.htm) - Regex explained.
 
-###Databases/Frameworks
+### Databases/Frameworks
 A collection of databases & frameworks that are helpful for data management and are the industry standard.
 * [SQL](http://www.postgresql.org/) - SQL Database - I linked to Postgres since that is the version I use.
 * [Psycopg](http://initd.org/psycopg/) - Python <> Postgres.  Able to adapt PostgreSQL for the python environment.
@@ -149,7 +149,7 @@ A collection of databases & frameworks that are helpful for data management and 
 * [Spark](https://spark.apache.org/) - Lightening fast cluster computing.
 * [MRjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or AWS.
 
-###Machine Learning
+### Machine Learning
 There is a lot of information available online about the theory, mathematical intuition, tuning for this discipline.  Here are some tools that are currently available.
 * [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Awesome d3 visualization to help understand machine learning.
 * [SciKit-Learn](http://scikit-learn.org/stable/) - Simple and efficient machine learning tools for data mining and data analysis
@@ -161,7 +161,7 @@ There is a lot of information available online about the theory, mathematical in
 * [Machine Learning CheatSheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - I would actually say this is more than just a cheat sheet given that there are > 100 pages of notes.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - List of machine learning libraries in all languages and also Kaggle competition source code by Joseph Misiti.
 
-###Machine Learning Theory
+### Machine Learning Theory
 * [MathematicalMonk ML videos](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) - Amazingly concise and digestible videos detailing how different machine learning algorithms function (e.g. logistical, sums, knn, Bayes, etc.)  
 * [Logistic Regression Explained](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm#hypothesis) - Detailed explanation of how logistic regression works.
 * [Video explaining how Random Forests Algorithm works](https://www.youtube.com/watch?v=o7iDkcpOr_g) - Random Forests Algorithm explained.
@@ -169,7 +169,7 @@ There is a lot of information available online about the theory, mathematical in
 * [Machine Learning 101](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/) - Large set of ML resources for beginners.
 
 
-###Deep Learning
+### Deep Learning
 Getting a lot of media traction is deep learning - get your feet wet with some of these resources:
 * [HackerNews for Deep Learning](http://news.startup.ml/) - As the name says - a hacker news for Deep Learning
 * [Deeplearning4j](http://deeplearning4j.org/) - Deep Learning in Java.
@@ -179,15 +179,15 @@ Getting a lot of media traction is deep learning - get your feet wet with some o
 * [Free Online Deep Learning Book](http://neuralnetworksanddeeplearning.com/) - in-depth book about NN & deep learning
 * [The Brain vs Deep Learning - Blog Post](https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/)
 
-######Time-Series
+#### Time-Series
 * [ANN & Computational Intelligence Forecasting Competition](http://www.neural-forecasting-competition.com/index.htm)
 * [Neural Networks for Time Series Slidedeck](http://www.cs.cmu.edu/afs/cs/academic/class/15782-f06/slides/timeseries.pdf) 
 
-####Model Selection
+#### Model Selection
 Resources about how to decide on your model.
 * [SciKit Learn Flow Chart for Model Selection](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) - A helpful for a starting point selecting SKlearn algorithms.
 
-####Model Evaluation
+#### Model Evaluation
 Resources to help with understanding model evaluation.
 * [Evaluating ML Algorithms](http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/) - Blog Post from MachineLearningMastery about how to evaluate your performance.
 * [Cross-Validation](http://robjhyndman.com/hyndsight/crossvalidation/) - Critical concept to evaluate the performance of your models.
@@ -195,7 +195,7 @@ Resources to help with understanding model evaluation.
   * [Scikit-learn Cross Validation doc](http://scikit-learn.org/stable/modules/cross_validation.html) - Self explanatory title.
   * [Cross Validation - how to select your final Kaggle Model](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/) - Importance of cross-validation described specifically in how it effects Kaggle competition scores.
 
-####Feature Engineering
+### Feature Engineering
 A critical element of Data Science to improve your performance but minimally talked about.
 * [Ipython Notebook for Feature engineering](http://nbviewer.ipython.org/urls/raw2.github.com/yhat/DataGotham2013/master/notebooks/7%20-%20Feature%20Engineering.ipynb?create=1) - Some discussion about Feature Engineering.
 * [CS Princeton Course](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf) - Course content on Feature Engineering.
@@ -226,7 +226,7 @@ Collection of the best libraries that I know for easy and powerful data visualiz
 * [vincent](http://vincent.readthedocs.org/en/latest/)  - Help with python for d3.
 * [seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/) - Clean statistical data visualization library.
 
-Other available Visualization Resources.
+### Other available Visualization Resources.
 * [Scott Murray's D3 Tutorials](alignedleft.com/tutorials/d3/) Tutorials from *Interactive Data Visualization for the Web*
 * [tributary.io](http://tributary.io) - live code visualization platform designed specifically for D3.js
 * [plot.ly](http://plot.ly) - A web visualization and data processing platform
@@ -290,7 +290,7 @@ Aim to keep track of developing trends and new tech that is helpful for the prac
 
 ## Product
 
-###Product Metrics
+### Product Metrics
 Understanding product, user behavior, and product metrics is helpful for data scientists in industry. Being able to help your product manager and team execute on strategies by understanding the problem, metrics and what they understand facilitates a more fruitful relationship.
 * [Actionable Metrics](http://practicetrumpstheory.com/3-rules-to-actionable-metrics/) - Funnel reports, cohort analysis, actionable metrics.
 * [Analytics for Product Managers](http://www.mindtheproduct.com/2013/02/everything-a-product-manager-needs-to-know-about-analytics/) - Everything a PM needs to know about analytics - or the minimum amount your PM should know about analytics as a Data Scientist.
@@ -422,16 +422,8 @@ There are some really great resources linked within this section covering all of
 
 ## ABOUT ME
 
-I am currently working at an advanced energy storage start-up called Stem which is at the heart of revolutionizing how the grid integrates energy storage from a consumer and utility perspective.  Our team works on a variety of different engineering challenges in particular, a lot of time-series problems.
-
-I am a chemical engineer and economist by formal education and have worked in the energy, water and carbon industries ever since college. I acquired my data science code skills through programming in an on-the-job environment and then taking three months off to learn to hone my data science skills @ Zipfian Academy (since acquired by Galvanize).  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if all of Zipfian resources were open source, without taking the time off work it would have been next to impossible to learn all that content.  Not to mention the great people I met through the program.  
-
-I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA), [LinkedIn](http://linkd.in/1vp57dk) or [AngelList](https://angel.co/jonathan-bower).  
+I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](https://twitter.com/luhakv), [LinkedIn](https://www.linkedin.com/in/luhakv).  
 
 
 
-
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources?pixel)](https://github.com/igrigorik/ga-beacon)
 
